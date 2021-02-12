@@ -25,5 +25,5 @@ def suma_potencias_de_2(a, b):
     return suma
 
 
-print(suma_potencias_de_2(6, 15))
-print(suma_potencias_de_2(17, 30))
+print(suma_potencias_de_2(2,8))
+print(suma_potencias_de_2(7,14))
